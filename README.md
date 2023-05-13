@@ -14,7 +14,7 @@ Scan in verbose mode (-v), enable OS detection, version detection, script scanni
 ```
 root@kali:~# nmap -v -A -sV 192.168.1.1
 
-Starting Nmap 6.45 ( http://nmap.org ) at 2023-05-11 18:40 MDT
+Starting Nmap 6.45 ( http://nmap.org ) at 2023-05-11 18:41 MDT
 NSE: Loaded 118 scripts for scanning.
 NSE: Script Pre-scanning.
 Initiating ARP Ping Scan at 18:40
